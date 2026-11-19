@@ -2,8 +2,19 @@
 
 # Initial Conditions and Variables
 
-M = 100     # Mass of the ball (big particle)
-m = 1       # Mass of small particles 
+mass_ball = 100     # Mass of the ball (big particle)
+mass_particle = 1       # Mass of small particles 
 
-R = 5       # Radious of the ball
-r = 0.5     # Radious of the small particles
+radious_ball = 5       # Radious of the ball
+radious_particles = 0.5     # Radious of the small particles
+
+
+
+
+
+# Energy Function
+def Total_Energy():
+
+    KE = pass
+    PE = pass
+
